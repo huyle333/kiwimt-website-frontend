@@ -5,8 +5,4 @@ This repository contains low-fidelity front-end material for KiwiMT. First of al
 
 Front-end stack
 ===============
-SASS
-CSS
-Bootstrap
-HTML
-JavaScript
+SASS, CSS, Bootstrap, HTML, JavaScript
